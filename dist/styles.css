@@ -1,0 +1,18 @@
+#btn-glitch {
+  background-color: #442bf2;
+  background-image: linear-gradient(to bottom, #442bf2, #ab3ec6);
+  color: white;
+  margin-left: 5px;
+}
+
+#btn-glitch:hover {
+  background-image: linear-gradient(to bottom, #442bf2, #7c2891);
+  border-color: rgba(27, 31, 35, 0.5);
+}
+
+#btn-glitch img {
+  float: right;
+  height: 1em;
+  margin-top: 3px;
+  margin-left: 8px;
+}
